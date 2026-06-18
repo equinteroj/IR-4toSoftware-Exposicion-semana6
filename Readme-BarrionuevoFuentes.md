@@ -10,7 +10,7 @@
 
 ### **Expositor: Crespo Obed**
 
-**Teoría:** Explicó cómo se conecta con la parte comercial, cómo funciona el trabajo en equipo y la automatización, además de los puntos buenos y los puntos malos.
+**Teoría:** Explicó cómo se conecta con la parte  comercial, cómo funciona el trabajo en equipo y la automatización, además de los puntos buenos y los puntos malos.
 
 **Práctica:** Creó una encuesta, mostró diferentes tipos de preguntas y simuló la encuesta.
 
